@@ -9,7 +9,7 @@
     "stylesheets": "~0.0.3"
   },
   "devDependencies": {
-    "jsxc": "~0.1.6"
+    "jsxc": "~0.10.0"
   },
   "scripts": {
     "start": "jsxc --watch src/ lib/",
